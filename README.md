@@ -16,7 +16,7 @@ For <url>/pressureDrop, format body required is something like this:
       "fluid_viscosity" : 0.0025
     }
 
-  Response Output:
+  Response Output for <url>/pressureDrop:
   
     {
       "result in Pa": 3600.0
@@ -48,7 +48,7 @@ For <url>/pressureArray, format body required is something like this:
 
     }
   
-  Response Output:
+  Response Output <url>/pressureArray:
   
     {
       "result in Pa": [
