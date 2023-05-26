@@ -2,8 +2,8 @@
 
 open terminal and run python main.py
 
-For single element pressure drop, just use end point pressureDrop.
-For a collection of pressure drops, use pressureArray.
+For a single element pressure drop, just use end point <url>/pressureDrop.
+For a collection of pressure drops, use <url>/pressureArray.
 
 For <url>/pressureDrop, format body required is something like this:
   
